@@ -1,0 +1,5 @@
+在同一个excel中，有表格sheet1,sheet2两个表：
+1.单击sheet1的单元格A1，输入等于号
+2.切换到sheet2表，单击sheet2的单元格B1（也就是你想引用的数据），再按Enter键
+3.sheet1的单元格
+A1显示的就是shee2表的B1的值了。
